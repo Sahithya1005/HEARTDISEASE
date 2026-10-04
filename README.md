@@ -43,6 +43,7 @@ TASK 3 – MEDICAL ANALYSIS
   2. How do cholesterol and blood pressure relate to heart disease?
 
   3. Which features are most important for predicting heart disease?
+     
 
 4. INTRODUCTION
 
