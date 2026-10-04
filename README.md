@@ -55,6 +55,7 @@ The main objective is to analyze these factors and develop a machine learning mo
 Note: This project is intended for machine-learning and educational analysis and is not a medical diagnosis tool.
 
 5. DATASET FEATURES
+
 | Feature             | Description                         |
 | ------------------- | ----------------------------------- |
 | Age                 | Age of the patient                  |
