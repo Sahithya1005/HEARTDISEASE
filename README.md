@@ -38,12 +38,11 @@ Build and compare different classification models to predict the presence of hea
 
 TASK 3 – MEDICAL ANALYSIS
 
-1. How does age affect the possibility of heart disease?
+  1. How does age affect the possibility of heart disease?
 
-2. How do cholesterol and blood pressure relate to heart disease?
+  2. How do cholesterol and blood pressure relate to heart disease?
 
-3. Which features are most important for predicting heart disease?
-
+  3. Which features are most important for predicting heart disease?
 
 4. INTRODUCTION
 
