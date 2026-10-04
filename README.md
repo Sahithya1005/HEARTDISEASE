@@ -170,47 +170,14 @@ The model with the best test performance was selected as the final model.
 
 11. MODEL COMPARISON
 
-MODEL: Logistic Regression
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
-
-MODEL: KNN Classifier
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
-
-MODEL: Decision Tree
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
-
-MODEL: Random Forest
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
-
-MODEL: SVM
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
-
-MODEL: XGBoost
-TRAIN ACCURACY: Actual Value
-TEST ACCURACY: Actual Value
-PRECISION: Actual Value
-RECALL: Actual Value
-F1 SCORE: Actual Value
+| Model               | Train Accuracy | Test Accuracy | Precision    | Recall       | F1 Score     |
+| ------------------- | -------------- | ------------- | ------------ | ------------ | ------------ |
+| Logistic Regression | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
+| KNN Classifier      | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
+| Decision Tree       | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
+| Random Forest       | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
+| SVM                 | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
+| XGBoost             | Actual Value   | Actual Value  | Actual Value | Actual Value | Actual Value |
 
 NOTE: Replace the above placeholder values with the actual values obtained from your notebook.
 
