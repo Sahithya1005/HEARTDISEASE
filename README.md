@@ -55,42 +55,20 @@ The main objective is to analyze these factors and develop a machine learning mo
 Note: This project is intended for machine-learning and educational analysis and is not a medical diagnosis tool.
 
 5. DATASET FEATURES
-
-FEATURE: Age
-DESCRIPTION: Age of the patient.
-
-FEATURE: Sex
-DESCRIPTION: Gender of the patient.
-
-FEATURE: Chest Pain Type
-DESCRIPTION: Type of chest pain experienced by the patient.
-
-FEATURE: Resting BP
-DESCRIPTION: Resting blood pressure of the patient.
-
-FEATURE: Cholesterol
-DESCRIPTION: Cholesterol level of the patient.
-
-FEATURE: Fasting Blood Sugar
-DESCRIPTION: Fasting blood sugar measurement.
-
-FEATURE: Resting ECG
-DESCRIPTION: Resting electrocardiographic result.
-
-FEATURE: Max Heart Rate
-DESCRIPTION: Maximum heart rate achieved by the patient.
-
-FEATURE: Exercise Angina
-DESCRIPTION: Indicates whether exercise-induced angina is present.
-
-FEATURE: Oldpeak
-DESCRIPTION: ST depression value.
-
-FEATURE: ST Slope
-DESCRIPTION: Slope of the ST segment.
-
-FEATURE: Heart Disease
-DESCRIPTION: Target variable indicating the presence or absence of heart disease.
+| Feature             | Description                         |
+| ------------------- | ----------------------------------- |
+| Age                 | Age of the patient                  |
+| Sex                 | Gender of the patient               |
+| Chest Pain Type     | Type of chest pain experienced      |
+| Resting BP          | Resting blood pressure              |
+| Cholesterol         | Cholesterol level                   |
+| Fasting Blood Sugar | Blood sugar measurement             |
+| Resting ECG         | Resting electrocardiographic result |
+| Max Heart Rate      | Maximum heart rate achieved         |
+| Exercise Angina     | Exercise-induced angina             |
+| Oldpeak             | ST depression value                 |
+| ST Slope            | Slope of the ST segment             |
+| Heart Disease       | Target variable                     |
 
 6. DATA PREPROCESSING
 
