@@ -14,19 +14,19 @@ This is a Classification problem because the target variable represents differen
 
 ALGORITHMS USED:
 
-1. Logistic Regression
+• Logistic Regression
 
-2. KNeighborsClassifier
+• KNeighborsClassifier
 
-3. DecisionTreeClassifier
+• DecisionTreeClassifier
 
-4. RandomForestClassifier
+• RandomForestClassifier
 
-5. Support Vector Machine (SVM)
+• Support Vector Machine (SVM)
 
-6. XGBClassifier
+• XGBClassifier
 
-7. PROJECT TASKS
+3.PROJECT TASKS
 
 TASK 1 – DATA ANALYSIS
 
