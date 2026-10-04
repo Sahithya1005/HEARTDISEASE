@@ -122,7 +122,10 @@ The relationship between input features and the target variable was analyzed usi
 
 Important features were retained for model development.
 
-Feature scaling was applied where required, especially for algorithms such as KNN, Logistic Regression, and SVM.
+Feature scaling was applied where required, especially for algorithms such as 
+• KNN
+• Logistic Regression
+• SVM
 
 Scaling helps ensure that features with larger numerical ranges do not dominate other features.
 
